@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news name="ModNews">
+	<entry>
+		<date>2024-05-10 12:00:00Z</date>
+		<title>Image-Test local</title>
+		<text>Miau</text>
+		<link>https://nazassurvivors.blogspot.com</link>
+		<imagerelpath></imagerelpath>
+	</entry>
+</news>
